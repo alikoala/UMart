@@ -1,0 +1,165 @@
+{
+  "$type": "System.Collections.Generic.List`1[[UMart.Good, UMart]], mscorlib",
+  "$values": [
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 800.0,
+      "UnitName": "КГ",
+      "Name": "Фисташки",
+      "Article": 1
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 70.0,
+      "UnitName": "КГ",
+      "Name": "Помидоры",
+      "Article": 2
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 50.0,
+      "UnitName": "КГ",
+      "Name": "Огурцы",
+      "Article": 3
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 99.0,
+      "UnitName": "КГ",
+      "Name": "Бананы",
+      "Article": 4
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 600.0,
+      "UnitName": "КГ",
+      "Name": "Изюм",
+      "Article": 5
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 200.0,
+      "UnitName": "КГ",
+      "Name": "Пельмени",
+      "Article": 6
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 350.0,
+      "UnitName": "КГ",
+      "Name": "Фарш домашний",
+      "Article": 7
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 25.0,
+      "UnitName": "КГ",
+      "Name": "Картофель",
+      "Article": 8
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 30.0,
+      "UnitName": "КГ",
+      "Name": "Лук",
+      "Article": 9
+    },
+    {
+      "$type": "UMart.WeightGood, UMart",
+      "Weight": 1.0,
+      "PricePerKG": 65.0,
+      "UnitName": "КГ",
+      "Name": "Яблоки",
+      "Article": 10
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 10.0,
+      "UnitName": "Шт",
+      "Name": "Киви",
+      "Article": 11
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 390.0,
+      "UnitName": "Шт",
+      "Name": "Колбаса молочная",
+      "Article": 12
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 27.0,
+      "UnitName": "Шт",
+      "Name": "Доширак",
+      "Article": 13
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 80.0,
+      "UnitName": "Шт",
+      "Name": "Кока-кола",
+      "Article": 14
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 50.0,
+      "UnitName": "Шт",
+      "Name": "Бон Аква",
+      "Article": 15
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 60.0,
+      "UnitName": "Шт",
+      "Name": "Йогурт",
+      "Article": 16
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 90.0,
+      "UnitName": "Шт",
+      "Name": "Чипсы Lays",
+      "Article": 17
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 8.0,
+      "UnitName": "Шт",
+      "Name": "Каша \"Минутка\"",
+      "Article": 18
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 62.0,
+      "UnitName": "Шт",
+      "Name": "Молоко Фермерское 1л",
+      "Article": 19
+    },
+    {
+      "$type": "UMart.PieceGood, UMart",
+      "Count": 1,
+      "PricePerPiece": 59.0,
+      "UnitName": "Шт",
+      "Name": "Шоколад Альпенгольд",
+      "Article": 20
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\bin\Debug\UMart.exe.config
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\bin\Debug\UMart.exe
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\bin\Debug\UMart.pdb
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\bin\Debug\Newtonsoft.Json.dll
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\bin\Debug\Newtonsoft.Json.xml
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\obj\Debug\UMart.csprojResolveAssemblyReference.cache
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\obj\Debug\UMart.Form1.resources
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\obj\Debug\UMart.Properties.Resources.resources
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\obj\Debug\UMart.csproj.GenerateResource.Cache
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\obj\Debug\UMart.exe
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\obj\Debug\UMart.pdb
+c:\users\nik\documents\visual studio 2015\Projects\UMart\UMart\bin\Debug\goods.json
